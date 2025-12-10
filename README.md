@@ -23,7 +23,7 @@
 - ⚛️ Strong in **React JS, TypeScript, HTML, CSS**
 - 🎨 Passionate about **UI/UX & clean design**
 - 🛠️ Experienced in **API Integration & Responsive UI**
-- 💼 Worked on **Doctor Appointment App – Wellora**
+- 💼 Worked on **Doctor Appointment App – Schedula**
 - 🌱 Currently exploring **Advanced React & Performance Optimization**
 - 💬 Ask me about **React, Frontend UI, Tailwind, Git**
 
